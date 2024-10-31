@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyTips\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/my-tips\n"
+"POT-Creation-Date: 2012-10-21 09:27:09+00:00\n"
+"PO-Revision-Date: 2012-10-21 18:29+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: js/mytips-class.php:68 js/mytips-class.php:77
+msgid "My Tips配置"
+msgstr "My Tips Configuration"
+
+#: js/mytips-class.php:68
+msgid "配置My Tips"
+msgstr "Config My Tips"
+
+#: js/mytips-class.php:87
+msgid "自动参数"
+msgstr "Auto Params"
+
+#: js/mytips-class.php:91 js/mytips-class.php:106
+msgid "标签名"
+msgstr "Label Name"
+
+#: js/mytips-class.php:93 js/mytips-class.php:108
+msgid "内容属性"
+msgstr "Content attribute"
+
+#: js/mytips-class.php:95 js/mytips-class.php:110
+msgid "标题属性"
+msgstr "Title attribute"
+
+#: js/mytips-class.php:99 js/mytips-class.php:114 js/mytips-class.php:132
+#: js/mytips-class.php:189
+msgid "启用标题"
+msgstr "Enable Title"
+
+#: js/mytips-class.php:101 js/mytips-class.php:116 js/mytips-class.php:134
+#: js/mytips-class.php:190
+msgid "删除"
+msgstr "Delete"
+
+#: js/mytips-class.php:140
+msgid "添加"
+msgstr "Add"
+
+#: js/mytips-class.php:142
+msgid ""
+"自动参数中的每一行中的标签名即为将启用Tips的标签名，内容属性即为作为Tip内容的"
+"属性，标题属性即为作为标题的属性。"
+msgstr ""
+"Every line of auto params will set the label name as tips' selector, and the "
+"content attribute will be the content of tip, title attribute will be the "
+"title of tip."
+
+#: js/mytips-class.php:196
+msgid "箭头位置"
+msgstr "Arrow Position"
+
+#: js/mytips-class.php:208
+msgid "My Tips箭头位置。"
+msgstr "My Tips arrow position."
+
+#: js/mytips-class.php:212
+msgid "主体位置"
+msgstr "Body Position"
+
+#: js/mytips-class.php:223
+msgid "My Tips主体位置"
+msgstr "My Tips body position."
+
+#: js/mytips-class.php:227
+msgid "外观样式"
+msgstr "Appearance Style"
+
+#: js/mytips-class.php:239
+msgid "My Tips外观样式。"
+msgstr "My Tips appearance style"
+
+#: js/mytips-class.php:246
+msgid "更新配置"
+msgstr "Update Configurations"
+
+#: js/mytips-class.php:368
+msgid "配置更新成功。"
+msgstr "Configuartions updated."
+
+#: js/mytips-class.php:372
+msgid "配置更新失败：不可信的请求。"
+msgstr "Configurations updated FAILED: unauthentic request."
+
+#: js/mytips-class.php:372
+msgid "默认样式"
+msgstr "Default"
+
+#: js/mytips-class.php:372
+msgid "YouTube样式"
+msgstr "YouTube Style"
+
+#: js/mytips-class.php:372
+msgid "jTools样式"
+msgstr "jTools Style"
+
+#: js/mytips-class.php:372
+msgid "Cluetip样式"
+msgstr "Cluetip Style"
+
+#: js/mytips-class.php:372
+msgid "Tipsy样式"
+msgstr "Tipsy Style"
+
+#: js/mytips-class.php:372
+msgid "Tipped样式"
+msgstr "Tipped Style"
+
+#: js/mytips-class.php:372
+msgid "Twitter样式"
+msgstr "Twitter Style"
+
+#: js/mytips-class.php:372
+msgid "qTip Light样式"
+msgstr "qTip Light"
+
+#: js/mytips-class.php:372
+msgid "qTip Dark样式"
+msgstr "qTip Dark"
+
+#: js/mytips-class.php:372
+msgid "qTip Cream样式"
+msgstr "qTip Cream"
+
+#: js/mytips-class.php:372
+msgid "qTip Blue样式"
+msgstr "qTip Blue"
+
+#: js/mytips-class.php:372
+msgid "qTip Green样式"
+msgstr "qTip Green"
+
+#: js/mytips-class.php:372
+msgid "qTip Red样式"
+msgstr "qTip Red"
